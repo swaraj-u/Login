@@ -235,6 +235,9 @@ hr{
 .opacity{
     opacity:0;
 }
+#account:hover{
+	cursor:pointer;
+}
 @keyframes Slide{
     0%{
         right:-35%;
