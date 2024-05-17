@@ -153,6 +153,9 @@ body{
 	flex-shrink:0;
 	color:#020729;
 }
+#fp:hover{
+	cursor:pointer;
+}
 
 #flex{
 	display:flex;
